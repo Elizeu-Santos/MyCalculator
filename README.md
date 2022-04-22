@@ -2,6 +2,7 @@
 
 <h1>Sobre</h1>
 <p>Uma simples calculadora usando Javascript, HTML e CSS.</p>
+<p> Clique <a href="https://elizeu-calculadora.netlify.app/">aqui</a> para ver a calculadora.</p>
 
 <h2> Tecnologias 👨🏾‍💻</h2>
 
