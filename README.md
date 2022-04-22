@@ -1,5 +1,7 @@
 # My Calculator 🖩
-
+<h1 align="center">
+  <img alt="Image" title="Readme" src="./Images/Calculator.PNG"/>
+  </h1>
 <h1>Sobre</h1>
 <p>Uma simples calculadora usando Javascript, HTML e CSS.</p>
 <p> Clique <a href="https://elizeu-calculadora.netlify.app/">aqui</a> para ver a calculadora.</p>
