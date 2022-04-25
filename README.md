@@ -4,6 +4,15 @@
   </h1>
 <h1>Sobre</h1>
 <p>Uma simples calculadora usando Javascript, HTML e CSS.</p>
+<p>Este projeto permite a realização de operações básicas com a cálculadora.</p>
+<p> 
+    <ul>
+        <li>Soma</li>
+        <li>Subtração</li>
+        <li>Multiplicação</li>
+        <li>Divisão</li>
+    </ul>
+</p>
 <p> Clique <a href="https://elizeu-calculadora.netlify.app/">aqui</a> para usar a calculadora.</p>
 
 <h2> Tecnologias 👨🏾‍💻</h2>
